@@ -1,21 +1,12 @@
-Markdown
-# Primeiros Passos em ADS 🚀
+# Olá, eu sou o João Gabriel Lima da Silva e estou atualmente no 1º semestre de ADS 👋
 
-Projeto criado para marcar o início da minha jornada no curso de **Análise e Desenvolvimento de Sistemas** pela Gran Cursos Faculdade.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Gran Cursos Faculdade.
+💻 Atualmente focado em lógica de programação, arquitetura de computadores e desenvolvimento web.
 
-## 📌 Sobre mim
-- **Estudante:** João Gabriel Lima da Silva
-- **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
-- **Faculdade:** Gran Cursos Faculdade
-- **Início:** 2026
+## 🚀 Tecnologias em Aprendizado
+- **Linguagens:** HTML5, CSS3, JavaScript
+- **Ferramentas:** Git, GitHub, Linux
 
-## 🎯 Objetivos com este repositório
-- Registrar minha evolução acadêmica do início ao fim do curso e a prática.
-- Armazenar resumos, anotações de aulas e pequenos exercícios de lógica e arquitetura de computadores.
-- Construir um portfólio prático para o mercado de trabalho.
-
-## 🛠️ Tecnologias e Conceitos em Estudo
-- Git e GitHub
-- Arquitetura de Computadores e Sistemas Operacionais
-- Lógica de Programação
-- ⚠️ **Sou iniciante e ainda estou no primeiro período, aceito dicas e sugestões, e tambem aceito entrar em algum grupo de whatsapp para adquirir mais conhecimento.**
+## 📬 Vamos nos conectar?
+- **LinkedIn:** [Link do seu LinkedIn](linkedin.com/in/joão-gabriel-200b42234)
+- **Whatsapp:** (84)98865-6936
